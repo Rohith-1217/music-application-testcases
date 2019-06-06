@@ -14,5 +14,7 @@ Muzix Application using H2 DataBase:
 
 -->Used Postman for RESTful services.
 
+-->We have generated test cases for music-application
+
 
 
